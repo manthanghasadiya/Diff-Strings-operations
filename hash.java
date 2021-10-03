@@ -14,8 +14,8 @@ public class hash {
         System.out.println(hmap);
     }
 
-    public static void main(String[] args) {
-        int arr[] = { 11, 35, 6, 11, 4, 6, 12 };
-        createHashMap(arr);
-    }
-}
+//     public static void main(String[] args) {
+//         int arr[] = { 11, 35, 6, 11, 4, 6, 12 };
+//         createHashMap(arr);
+//     }
+// }
